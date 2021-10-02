@@ -1,0 +1,23 @@
+{
+  "name": "html-css-part3",
+  "version": "1.0.0",
+  "description": "<!-- *** Thanks for checking out the Best-README-Template. If you have a suggestion *** that would make this better, please fork the repo and create a pull request *** or simply open an issue with the tag \"enhancement\". *** Thanks again! Now go create something AMAZING! :D *** *** *** *** To avoid retyping too much info. Do a search and replace for the following: *** drobb2020, repo_name, twitter_handle, email, project_title, project_description -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drobb2020/html-css-part3.git"
+  },
+  "keywords": [],
+  "author": "David Robb <drobb2011@gmail.com> (https://davidrobb2021.tech/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drobb2020/html-css-part3/issues"
+  },
+  "homepage": "https://github.com/drobb2020/html-css-part3#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
